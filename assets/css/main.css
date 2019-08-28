@@ -4002,3 +4002,12 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	.features img{
+		height: 200px;
+		width: 200px;
+	}
+
+	.HCJ img{
+		width: 400px;
+	}
