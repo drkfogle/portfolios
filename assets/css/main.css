@@ -2590,7 +2590,7 @@ input, select, textarea {
 				background-color: rgba(0, 0, 0, 0.21);
 			}
 
-			.features li:nth-child(7) {
+			.features li:nth-child() {
 				background-color: rgba(0, 0, 0, 0.245);
 			}
 
@@ -2602,7 +2602,7 @@ input, select, textarea {
 				background-color: rgba(0, 0, 0, 0.315);
 			}
 
-			.features li:nth-child(10) {
+			.features li:nth-child() {
 				background-color: rgba(0, 0, 0, 0.35);
 			}
 
@@ -4005,9 +4005,12 @@ input, select, textarea {
 
 	.features img{
 		height: 200px;
-		width: 200px;
 	}
 
 	.HCJ img{
 		width: 400px;
+	}
+
+	.Node img{
+		width: 350px;
 	}
